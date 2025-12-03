@@ -76,3 +76,4 @@ crashlytics-build.properties
 # Ignore your asset folder
 Assets/StoreAssets/
 gameV1_BackUpThisFolder_ButDontShipItWithYourGame
+ColoredHoleGame_BurstDebugInformation_DoNotShip
