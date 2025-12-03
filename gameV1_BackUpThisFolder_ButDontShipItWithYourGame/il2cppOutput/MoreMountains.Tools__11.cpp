@@ -21739,7 +21739,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_mEF3D6C5AD24
 	typedef void (*FunctionPointerType) (RuntimeObject*, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, float, float, float, bool, float, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, bool, bool, bool, int32_t, bool, bool, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_volumeCurve, ___1_duration, ___2_remapMin, ___3_remapMax, ___4_relativeVolume, ___5_feedbacksIntensity, ___6_channelData, ___7_resetShakerValuesAfterShake, ___8_resetTargetValuesAfterShake, ___9_forwardDirection, ___10_timescaleMode, ___11_stop, ___12_restore, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46620
+// Method Definition Index: 46616
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Multiply_m379B20A820266ACF82A21425B9CAE8DCD773CFBB_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_a, float ___1_b, const RuntimeMethod* method) 
 {
 	Color_tD001788D726C3A7F1379BEED0260B9591F440C1F V_0;
@@ -21806,7 +21806,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_mB9417F0B989
 	typedef void (*FunctionPointerType) (RuntimeObject*, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_channelData, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46779
+// Method Definition Index: 46775
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21829,7 +21829,7 @@ IL_0009:
 		return L_1;
 	}
 }
-// Method Definition Index: 46789
+// Method Definition Index: 46785
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -21857,7 +21857,7 @@ IL_0021:
 		return L_10;
 	}
 }
-// Method Definition Index: 46790
+// Method Definition Index: 46786
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m7F3B0FA9256CE368D7636558EFEFC4AB0E1A0F41_inline (float ___0_d, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_a, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -21897,7 +21897,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_m6FFDAF74D20
 	typedef void (*FunctionPointerType) (RuntimeObject*, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F, float, float, int32_t, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, int32_t, bool, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_flashColor, ___1_duration, ___2_alpha, ___3_flashID, ___4_channelData, ___5_timescaleMode, ___6_stop, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46646
+// Method Definition Index: 46642
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_white_m068F5AF879B0FCA584E3693F762EA41BB65532C6_inline (const RuntimeMethod* method) 
 {
 	{
@@ -21907,7 +21907,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 46875
+// Method Definition Index: 46871
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Lerp_m47EF2FFB7647BD0A1FDC26DC03E28B19812139B5_inline (float ___0_a, float ___1_b, float ___2_t, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -21928,7 +21928,7 @@ IL_0010:
 		return L_5;
 	}
 }
-// Method Definition Index: 46874
+// Method Definition Index: 46870
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline (float ___0_value, const RuntimeMethod* method) 
 {
 	bool V_0 = false;
@@ -21982,7 +21982,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_m35485E667D1
 	typedef void (*FunctionPointerType) (RuntimeObject*, float, bool, bool, Gradient_tA7FEBE2FDB4929FFF6C997134841046F713DAC1E*, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, float, float, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, float, float, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, float, float, float, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, bool, bool, bool, float, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_shakeDuration, ___1_relativeValues, ___2_modifyColor, ___3_colorOverTime, ___4_intensityCurve, ___5_remapIntensityZero, ___6_remapIntensityOne, ___7_rangeCurve, ___8_remapRangeZero, ___9_remapRangeOne, ___10_shadowStrengthCurve, ___11_remapShadowStrengthZero, ___12_remapShadowStrengthOne, ___13_feedbacksIntensity, ___14_channelData, ___15_resetShakerValuesAfterShake, ___16_resetTargetValuesAfterShake, ___17_useRange, ___18_eventRange, ___19_eventOriginPosition, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46786
+// Method Definition Index: 46782
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22013,7 +22013,7 @@ IL_0030:
 		return L_13;
 	}
 }
-// Method Definition Index: 46787
+// Method Definition Index: 46783
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22044,7 +22044,7 @@ IL_0030:
 		return L_13;
 	}
 }
-// Method Definition Index: 46780
+// Method Definition Index: 46776
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_forward_mAA55A7034304DF8B2152EAD49AE779FC4CA2EB4A_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22073,7 +22073,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_m4BDCA95D4BC
 	typedef void (*FunctionPointerType) (RuntimeObject*, float, bool, bool, bool, int32_t, int32_t, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1*, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1*, MMTweenType_t8EBF2D1FE664D8B0F1572EE0C63EE31B77C777F1*, bool, float, bool, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, float, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, bool, bool, bool, int32_t, bool, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_duration, ___1_lockXAxis, ___2_lockYAxis, ___3_lockZAxis, ___4_upwardVector, ___5_lookAtTargetMode, ___6_lookAtTarget, ___7_lookAtTargetWorldPosition, ___8_lookAtDirection, ___9_transformToRotate, ___10_lookAtTween, ___11_useRange, ___12_rangeDistance, ___13_useRangeFalloff, ___14_rangeFalloff, ___15_remapRangeFalloff, ___16_rangePosition, ___17_feedbacksIntensity, ___18_channelData, ___19_resetShakerValuesAfterShake, ___20_resetTargetValuesAfterShake, ___21_forwardDirection, ___22_timescaleMode, ___23_stop, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46929
+// Method Definition Index: 46925
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_v, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22096,7 +22096,7 @@ IL_001a:
 		return L_5;
 	}
 }
-// Method Definition Index: 46763
+// Method Definition Index: 46759
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3_Normalize_mC749B887A4C74BA0A2E13E6377F17CCAEB0AADA8_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -22135,7 +22135,7 @@ IL_0038:
 		return;
 	}
 }
-// Method Definition Index: 46928
+// Method Definition Index: 46924
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_op_Implicit_mE8EBEE9291F11BB02F062D6E000F4798968CBD96_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_v, const RuntimeMethod* method) 
 {
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 V_0;
@@ -22158,7 +22158,7 @@ IL_0015:
 		return L_5;
 	}
 }
-// Method Definition Index: 46782
+// Method Definition Index: 46778
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22181,7 +22181,7 @@ IL_0009:
 		return L_1;
 	}
 }
-// Method Definition Index: 46755
+// Method Definition Index: 46751
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
 {
 	{
@@ -22194,7 +22194,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999E
 		return;
 	}
 }
-// Method Definition Index: 46778
+// Method Definition Index: 46774
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22223,7 +22223,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_m8114F1661C8
 	typedef void (*FunctionPointerType) (RuntimeObject*, float, float, float, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, bool, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, bool, bool, bool, bool, bool, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, bool, bool, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, bool, float, bool, AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, float, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, bool, bool, bool, int32_t, bool, bool, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_duration, ___1_shakeSpeed, ___2_shakeRange, ___3_shakeMainDirection, ___4_randomizeDirection, ___5_shakeAltDirection, ___6_randomizeDirectionOnPlay, ___7_randomizeDirectionX, ___8_randomizeDirectionY, ___9_randomizeDirectionZ, ___10_addDirectionalNoise, ___11_directionalNoiseStrengthMin, ___12_directionalNoiseStrengthMax, ___13_randomnessSeed, ___14_randomizeSeedOnShake, ___15_useAttenuation, ___16_attenuationCurve, ___17_useRange, ___18_rangeDistance, ___19_useRangeFalloff, ___20_rangeFalloff, ___21_remapRangeFalloff, ___22_rangePosition, ___23_feedbacksIntensity, ___24_channelData, ___25_resetShakerValuesAfterShake, ___26_resetTargetValuesAfterShake, ___27_forwardDirection, ___28_timescaleMode, ___29_stop, ___30_restore, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46818
+// Method Definition Index: 46814
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Quaternion_get_eulerAngles_m2DB5158B5C3A71FD60FC8A6EE43D3AAA1CFED122_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974* __this, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22246,7 +22246,7 @@ IL_001e:
 		return L_4;
 	}
 }
-// Method Definition Index: 46820
+// Method Definition Index: 46816
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Quaternion_Euler_m5BCCC19216CFAD2426F15BC51A30421880D27B73_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_euler, const RuntimeMethod* method) 
 {
 	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 V_0;
@@ -22285,7 +22285,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Delegate_Invoke_m3CEF683BAE3
 	typedef void (*FunctionPointerType) (RuntimeObject*, float, bool, Gradient_tA7FEBE2FDB4929FFF6C997134841046F713DAC1E*, bool, bool, float, MMChannelData_t657D68DAB01033BA911AC7974B59BFCC1BAEAA5F*, bool, bool, bool, float, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, ___0_shakeDuration, ___1_modifyColor, ___2_colorOverTime, ___3_flipX, ___4_flipY, ___5_feedbacksIntensity, ___6_channelData, ___7_resetShakerValuesAfterShake, ___8_resetTargetValuesAfterShake, ___9_useRange, ___10_eventRange, ___11_eventOriginPosition, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46764
+// Method Definition Index: 46760
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_normalized_m736BBF65D5CDA7A18414370D15B4DFCC1E466F07_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22304,7 +22304,7 @@ IL_000f:
 		return L_2;
 	}
 }
-// Method Definition Index: 46750
+// Method Definition Index: 46746
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_Lerp_m3A906D0530A94FAABB94F0F905E84D99BE85C3F8_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, float ___2_t, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22348,7 +22348,7 @@ IL_0053:
 		return L_24;
 	}
 }
-// Method Definition Index: 46751
+// Method Definition Index: 46747
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_LerpUnclamped_m4109A459C1DB823310A10B8B1E80CB6877418347_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, float ___2_t, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22388,7 +22388,7 @@ IL_004b:
 		return L_22;
 	}
 }
-// Method Definition Index: 46792
+// Method Definition Index: 46788
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector3_op_Equality_mCDCBB8D2EDC3D3BF20F31A25ACB34705D352B479_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_lhs, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_rhs, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -22456,7 +22456,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Int32U5BU5D_t19C97395396A72ECAF31
 		return L_0;
 	}
 }
-// Method Definition Index: 46611
+// Method Definition Index: 46607
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F* __this, float ___0_r, float ___1_g, float ___2_b, float ___3_a, const RuntimeMethod* method) 
 {
 	{
@@ -22471,7 +22471,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9C
 		return;
 	}
 }
-// Method Definition Index: 46772
+// Method Definition Index: 46768
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_Magnitude_m21652D951393A3D7CE92CE40049A0E7F76544D1B_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_vector, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22507,7 +22507,7 @@ IL_0034:
 		return L_13;
 	}
 }
-// Method Definition Index: 46791
+// Method Definition Index: 46787
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
 {
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
@@ -22535,7 +22535,7 @@ IL_0021:
 		return L_10;
 	}
 }
-// Method Definition Index: 46896
+// Method Definition Index: 46892
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* __this, float ___0_x, float ___1_y, const RuntimeMethod* method) 
 {
 	{
@@ -22546,7 +22546,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2__ctor_m9525B79969AFF
 		return;
 	}
 }
-// Method Definition Index: 46762
+// Method Definition Index: 46758
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_Normalize_mEF8349CC39674236CFC694189AFD36E31F89AC8F_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;

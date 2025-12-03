@@ -3282,7 +3282,7 @@ MonoBehaviour:
   timeLeft: 30
   startingTime: 30
   timerSpeed: 0
-  maxTimerSpeed: 3.5
+  maxTimerSpeed: 3
   timerText: {fileID: 1341549703}
   scoreText: {fileID: 1212969084}
   endScreenScoreText: {fileID: 172086675}

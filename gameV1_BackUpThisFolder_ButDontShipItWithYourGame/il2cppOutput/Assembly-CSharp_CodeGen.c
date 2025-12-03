@@ -7,14 +7,6 @@
 
 
 
-extern void BallLauncher_Awake_m2F217BBF00DAE829FC9CAAD17B9C50395DC5FE31 (void);
-extern void BallLauncher_Update_m9BA131E2BEBB81C58AFA3D4D40E35E6D406F8658 (void);
-extern void BallLauncher_MyInput_m0CABD1168EAF41E6ECA56A1A8BDB27E889DC938D (void);
-extern void BallLauncher_Shoot_mECAFFF1ED2A357328724802D1073EC7B2A974EB7 (void);
-extern void BallLauncher_ResetShot_mBD46E56AE5D79EC0B0A8D2846F91E8150564786E (void);
-extern void BallLauncher_Reload_mF330D90B0FC67CBDB0A87F3F51FADE640C36696B (void);
-extern void BallLauncher_ReloadFinished_m166DC30AB5D829E74642112AB4F2766D25464492 (void);
-extern void BallLauncher__ctor_m5F2035772FE7B872446E5E39C394E8E76BF1C90D (void);
 extern void Gamemanager_get_Instance_m4F33DA81F236B9738E1BE4B572E6073CB2E3CEA6 (void);
 extern void Gamemanager_set_Instance_mDF3B36998B6F373B018F29A4DFD052BF0FFA2491 (void);
 extern void Gamemanager_get_gameEnded_m3605B07BBE193B8165C561F0BFB4E12E741102FA (void);
@@ -85,16 +77,8 @@ extern void UIParticleSystem_StartParticleEmission_m7947C7CEA5ECC199EFB0C4EE2866
 extern void UIParticleSystem_StopParticleEmission_m0464663F4AB59E0D181A06A74A1E86999CECB565 (void);
 extern void UIParticleSystem_PauseParticleEmission_m1A68825DB27D4F908B0077ED1172AD8DA6206A24 (void);
 extern void UIParticleSystem__ctor_m0576695CF8FAFFDC4311EE48C7524C3D01DA09AF (void);
-static Il2CppMethodPointer s_methodPointers[78] = 
+static Il2CppMethodPointer s_methodPointers[70] = 
 {
-	BallLauncher_Awake_m2F217BBF00DAE829FC9CAAD17B9C50395DC5FE31,
-	BallLauncher_Update_m9BA131E2BEBB81C58AFA3D4D40E35E6D406F8658,
-	BallLauncher_MyInput_m0CABD1168EAF41E6ECA56A1A8BDB27E889DC938D,
-	BallLauncher_Shoot_mECAFFF1ED2A357328724802D1073EC7B2A974EB7,
-	BallLauncher_ResetShot_mBD46E56AE5D79EC0B0A8D2846F91E8150564786E,
-	BallLauncher_Reload_mF330D90B0FC67CBDB0A87F3F51FADE640C36696B,
-	BallLauncher_ReloadFinished_m166DC30AB5D829E74642112AB4F2766D25464492,
-	BallLauncher__ctor_m5F2035772FE7B872446E5E39C394E8E76BF1C90D,
 	Gamemanager_get_Instance_m4F33DA81F236B9738E1BE4B572E6073CB2E3CEA6,
 	Gamemanager_set_Instance_mDF3B36998B6F373B018F29A4DFD052BF0FFA2491,
 	Gamemanager_get_gameEnded_m3605B07BBE193B8165C561F0BFB4E12E741102FA,
@@ -166,16 +150,8 @@ static Il2CppMethodPointer s_methodPointers[78] =
 	UIParticleSystem_PauseParticleEmission_m1A68825DB27D4F908B0077ED1172AD8DA6206A24,
 	UIParticleSystem__ctor_m0576695CF8FAFFDC4311EE48C7524C3D01DA09AF,
 };
-static const int32_t s_InvokerIndices[78] = 
+static const int32_t s_InvokerIndices[70] = 
 {
-	14725,
-	14725,
-	14725,
-	14725,
-	14725,
-	14725,
-	14725,
-	14725,
 	25145,
 	23998,
 	14321,
@@ -251,7 +227,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	78,
+	70,
 	s_methodPointers,
 	0,
 	NULL,

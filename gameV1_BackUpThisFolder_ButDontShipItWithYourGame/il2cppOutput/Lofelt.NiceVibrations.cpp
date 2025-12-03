@@ -1668,7 +1668,7 @@ IL2CPP_EXTERN_C int32_t DEFAULT_CALL lofeltHapticsLoadDirect(intptr_t, uint8_t*,
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91491
+// Method Definition Index: 91408
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t71B9AD5BEB7CF3696AAC56C154B6809924A0F1F3 UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m0704FDB8475419FE3A4C2BB3281412603B356707 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1702,7 +1702,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t71B9AD5BEB7CF3696AAC56C154B68
 		return L_6;
 	}
 }
-// Method Definition Index: 91492
+// Method Definition Index: 91409
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m08AC12BDE1B4F2F35FD48DC052CA9156C4E11210 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC18E011580FC4BAACA8A14305C22612BD3E3247A* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1788,7 +1788,7 @@ IL2CPP_EXTERN_C void MonoScriptData_t71B9AD5BEB7CF3696AAC56C154B6809924A0F1F3_ma
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91493
+// Method Definition Index: 91410
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_platform_m4E401F483788E655EB8264E8D032B1725E6ACED9 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1804,7 +1804,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_platform_m4E40
 		return L_0;
 	}
 }
-// Method Definition Index: 91494
+// Method Definition Index: 91411
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_platformVersion_m0A60F6AEB62C7F305D64E89587392EFDCE4E4186 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1820,7 +1820,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_platformVersio
 		return L_0;
 	}
 }
-// Method Definition Index: 91495
+// Method Definition Index: 91412
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_meetsAdvancedRequirements_m2501828C362AB5507BF4EE8BF1E9FCEE92CDDA46 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1836,7 +1836,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_meetsAdvancedRequ
 		return L_0;
 	}
 }
-// Method Definition Index: 91496
+// Method Definition Index: 91413
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_isVersionSupported_m2349570E6B8BAABBAD18ECF19D758436A1282496 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1852,7 +1852,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_isVersionSupporte
 		return L_0;
 	}
 }
-// Method Definition Index: 91497
+// Method Definition Index: 91414
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasAmplitudeControl_mD3385B8AD2B572E63CE8DEA5E53162747E808B2C (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1868,7 +1868,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasAmplitudeContr
 		return L_0;
 	}
 }
-// Method Definition Index: 91498
+// Method Definition Index: 91415
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasFrequencyControl_m7487FFFE57D7805F867756DF9B55B9035D7D43FF (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1884,7 +1884,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasFrequencyContr
 		return L_0;
 	}
 }
-// Method Definition Index: 91499
+// Method Definition Index: 91416
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasAmplitudeModulation_mD3C8FD6CBAFB4A61328AB07465DD9067A8D3E0FB (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1900,7 +1900,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasAmplitudeModul
 		return L_0;
 	}
 }
-// Method Definition Index: 91500
+// Method Definition Index: 91417
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasFrequencyModulation_m813D6D6F555A3FA62A94B55A937D654066B08237 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1916,7 +1916,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasFrequencyModul
 		return L_0;
 	}
 }
-// Method Definition Index: 91501
+// Method Definition Index: 91418
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasEmphasis_mEB0934F078C0FF7C7ACC3032017377220117DBD1 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1932,7 +1932,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_hasEmphasis_mEB09
 		return L_0;
 	}
 }
-// Method Definition Index: 91502
+// Method Definition Index: 91419
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canEmulateEmphasis_mEF714028AD5826BC9AEC5FF84C653826363B9C07 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1948,7 +1948,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canEmulateEmphasi
 		return L_0;
 	}
 }
-// Method Definition Index: 91503
+// Method Definition Index: 91420
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canLoop_m69DF52370C735DBBD712DB92B96F8961B5A469CD (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1964,7 +1964,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canLoop_m69DF5237
 		return L_0;
 	}
 }
-// Method Definition Index: 91504
+// Method Definition Index: 91421
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DeviceCapabilities__cctor_mF71D011FD1233CAE59C93387DB7F4064B51DAA42 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2007,7 +2007,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DeviceCapabilities__cctor_mF71D011FD1233
 		return;
 	}
 }
-// Method Definition Index: 91505
+// Method Definition Index: 91422
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DeviceCapabilities_Init_m7AC099423DD92EFAC32183C356021EBC63C89C47 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2104,7 +2104,7 @@ IL2CPP_EXTERN_C void GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240_mar
 	il2cpp_codegen_com_destroy_safe_array(marshaled.___highFrequencyMotorSpeeds);
 	marshaled.___highFrequencyMotorSpeeds = NULL;
 }
-// Method Definition Index: 91506
+// Method Definition Index: 91423
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumble_IsValid_m77AAB239FF848FBF602F878764E3FA50B6A4BFB2 (GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2182,7 +2182,7 @@ IL2CPP_EXTERN_C  bool GamepadRumble_IsValid_m77AAB239FF848FBF602F878764E3FA50B6A
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91507
+// Method Definition Index: 91424
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Init_m6C2B658F77FFBA6ABB7461D141E3E6A8463CF197 (const RuntimeMethod* method) 
 {
 	{
@@ -2190,7 +2190,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Init_m6C2B658F77FFBA6ABB7
 		return;
 	}
 }
-// Method Definition Index: 91508
+// Method Definition Index: 91425
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_CanPlay_mFFF359E6E875933036961CAFC069B32989DA533F (const RuntimeMethod* method) 
 {
 	{
@@ -2198,7 +2198,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_CanPlay_mFFF359E6E8759330
 		return (bool)0;
 	}
 }
-// Method Definition Index: 91509
+// Method Definition Index: 91426
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_SetCurrentGamepad_m575002631169740B5FE069AABB0B027049205B3D (int32_t ___0_gamepadID, const RuntimeMethod* method) 
 {
 	{
@@ -2206,7 +2206,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_SetCurrentGamepad_m575002
 		return;
 	}
 }
-// Method Definition Index: 91510
+// Method Definition Index: 91427
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_IsConnected_mD3EA909001C5BB4BACA421C42FC7244BEC11CD15 (const RuntimeMethod* method) 
 {
 	{
@@ -2214,7 +2214,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_IsConnected_mD3EA909001C5
 		return (bool)0;
 	}
 }
-// Method Definition Index: 91511
+// Method Definition Index: 91428
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Load_m98F6602C87AD124ECDD629CD00D5EBEF8563345A (GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240 ___0_rumble, const RuntimeMethod* method) 
 {
 	{
@@ -2222,7 +2222,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Load_m98F6602C87AD124ECDD
 		return;
 	}
 }
-// Method Definition Index: 91512
+// Method Definition Index: 91429
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Play_m43B8664528C63A77B17FF1027F72B5CF421AE3D2 (const RuntimeMethod* method) 
 {
 	{
@@ -2230,7 +2230,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Play_m43B8664528C63A77B17
 		return;
 	}
 }
-// Method Definition Index: 91513
+// Method Definition Index: 91430
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Stop_m5CDA6A7D1F191046DEDF2AA37EFDD030A63920F9 (const RuntimeMethod* method) 
 {
 	{
@@ -2238,7 +2238,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Stop_m5CDA6A7D1F191046DED
 		return;
 	}
 }
-// Method Definition Index: 91514
+// Method Definition Index: 91431
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Unload_mEC8030BBE6C2FD9FDB87B20469FEB4E70AB26564 (const RuntimeMethod* method) 
 {
 	{
@@ -2246,7 +2246,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_Unload_mEC8030BBE6C2FD9FD
 		return;
 	}
 }
-// Method Definition Index: 91515
+// Method Definition Index: 91432
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_IncreaseRumbleIndex_mB4EDC628131D713E3912C578C3AF4E3E2003CBEC (const RuntimeMethod* method) 
 {
 	{
@@ -2254,7 +2254,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GamepadRumbler_IncreaseRumbleIndex_mB4ED
 		return (bool)0;
 	}
 }
-// Method Definition Index: 91516
+// Method Definition Index: 91433
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_ProcessNextRumble_m6EF0DE443300BFA23D373F82DBD9C1D84B883CEE (const RuntimeMethod* method) 
 {
 	{
@@ -2270,7 +2270,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GamepadRumbler_ProcessNextRumble_m6EF0DE
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91517
+// Method Definition Index: 91434
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticClip__ctor_mDB818615E9073D26B347B1E56B1F03731EEE47B6 (HapticClip_tEE25B78FB55CF38704D366A9BEEC4687B51B1D98* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2286,7 +2286,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticClip__ctor_mDB818615E9073D26B347B1
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91518
+// Method Definition Index: 91435
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t HapticController_get_fallbackPreset_mFB148A0F3EAABF5B2B9B2EE591D70616B8E00548 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2302,7 +2302,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t HapticController_get_fallbackPreset_m
 		return L_0;
 	}
 }
-// Method Definition Index: 91519
+// Method Definition Index: 91436
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_fallbackPreset_m59C957576E33F13392F08310B4E5F8D610CA2EA1 (int32_t ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2320,7 +2320,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_fallbackPreset_m59C
 		return;
 	}
 }
-// Method Definition Index: 91520
+// Method Definition Index: 91437
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticController_get_hapticsEnabled_mBA9A8296F49D4445C034A94E25D55446B7760887 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2336,7 +2336,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticController_get_hapticsEnabled_mBA9
 		return L_0;
 	}
 }
-// Method Definition Index: 91521
+// Method Definition Index: 91438
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_hapticsEnabled_m9A2E6CA744C9D85358114BEFE898155E0C958C2B (bool ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2370,7 +2370,7 @@ IL_000c:
 		return;
 	}
 }
-// Method Definition Index: 91522
+// Method Definition Index: 91439
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticController_get_outputLevel_mB9E570F29478F1DD5DCAF278000A0243D2884953 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2386,7 +2386,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticController_get_outputLevel_mB9E57
 		return L_0;
 	}
 }
-// Method Definition Index: 91523
+// Method Definition Index: 91440
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_outputLevel_m259DA805820909202D9A3919CEDFFB7256B4BBCC (float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2408,7 +2408,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_outputLevel_m259DA8
 		return;
 	}
 }
-// Method Definition Index: 91524
+// Method Definition Index: 91441
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticController_get_clipLevel_mF40C343D43F5CBD59E8C94803E9ACC827EDA2C33 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2424,7 +2424,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticController_get_clipLevel_mF40C343
 		return L_0;
 	}
 }
-// Method Definition Index: 91525
+// Method Definition Index: 91442
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_clipLevel_m80B5B8741E37779079AFD64191F140D73AC5E2EF (float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2446,7 +2446,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_clipLevel_m80B5B874
 		return;
 	}
 }
-// Method Definition Index: 91526
+// Method Definition Index: 91443
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_ApplyLevelsToLofeltHaptics_m5ACDECB79785ED4783E5F97AF6DBD854F33A0726 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2481,7 +2481,7 @@ IL_0017:
 		return;
 	}
 }
-// Method Definition Index: 91527
+// Method Definition Index: 91444
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_ApplyLevelsToGamepadRumbler_m9D1B96D0E2AE8863A88A3262E165398AB2FD9948 (const RuntimeMethod* method) 
 {
 	{
@@ -2489,7 +2489,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_ApplyLevelsToGamepadRum
 		return;
 	}
 }
-// Method Definition Index: 91528
+// Method Definition Index: 91445
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticController_Init_m22E37359750A428A75C583385A5D813B2D959F73 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2579,7 +2579,7 @@ IL_0054:
 		return L_9;
 	}
 }
-// Method Definition Index: 91529
+// Method Definition Index: 91446
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Load_mE6AA251161ED4A27476BC30C51AD716D49B15573 (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___0_data, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2643,7 +2643,7 @@ IL_0040:
 		return;
 	}
 }
-// Method Definition Index: 91530
+// Method Definition Index: 91447
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Load_mE91A8FCA5AD81A52B0960D91A9A57E644B3A6D83 (HapticClip_tEE25B78FB55CF38704D366A9BEEC4687B51B1D98* ___0_clip, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2666,7 +2666,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Load_mE91A8FCA5AD81A52B
 		return;
 	}
 }
-// Method Definition Index: 91531
+// Method Definition Index: 91448
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Load_mB19C1D42F42F987DAF09066928F5FF3CE97440FA (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___0_json, GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240 ___1_rumble, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2714,7 +2714,7 @@ IL_0038:
 		return;
 	}
 }
-// Method Definition Index: 91532
+// Method Definition Index: 91449
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_HandleFinishedPlayback_m65689D7AA8872B72B81066A819E5C84B0EC1454E (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2757,7 +2757,7 @@ IL_0025:
 		return;
 	}
 }
-// Method Definition Index: 91533
+// Method Definition Index: 91450
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Play_mDB776487954DC2A0EC99BC87C67505CD810938C4 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2931,7 +2931,7 @@ IL_00be:
 		return;
 	}
 }
-// Method Definition Index: 91534
+// Method Definition Index: 91451
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Play_m94EADABB22195E52670B54015B577DB2F7071196 (HapticClip_tEE25B78FB55CF38704D366A9BEEC4687B51B1D98* ___0_clip, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2951,7 +2951,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Play_m94EADABB22195E526
 		return;
 	}
 }
-// Method Definition Index: 91535
+// Method Definition Index: 91452
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Stop_m5B7223E597494DC4AFC4BC87FB149EA9DB0867B5 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2996,7 +2996,7 @@ IL_0013:
 		return;
 	}
 }
-// Method Definition Index: 91536
+// Method Definition Index: 91453
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Seek_mF49BDF3CE3FE84E2412324A917067F7D37919D64 (float ___0_time, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3037,7 +3037,7 @@ IL_0012:
 		return;
 	}
 }
-// Method Definition Index: 91537
+// Method Definition Index: 91454
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_set_clipFrequencyShift_m46D7B83FD3D5FEFF6B9E039DA1685C58ECFE6612 (float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3070,7 +3070,7 @@ IL_000d:
 		return;
 	}
 }
-// Method Definition Index: 91538
+// Method Definition Index: 91455
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Loop_m45FB287179B3DAC3AD7A816AF85FBE61F73C30CA (bool ___0_enabled, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3107,7 +3107,7 @@ IL_000d:
 		return;
 	}
 }
-// Method Definition Index: 91539
+// Method Definition Index: 91456
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticController_IsPlaying_m2184DE06BA77A234A514D91B286CE8BF2FA27482 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3141,7 +3141,7 @@ IL_000e:
 		return L_2;
 	}
 }
-// Method Definition Index: 91540
+// Method Definition Index: 91457
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_Reset_m56A1A297436721691F696EFD3DB7D0B13FB41EF6 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3182,7 +3182,7 @@ IL_0030:
 		return;
 	}
 }
-// Method Definition Index: 91541
+// Method Definition Index: 91458
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController_ProcessApplicationFocus_m161EAF2B8408B1AC9C74C9D2D41F637071C93C07 (bool ___0_hasFocus, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3211,7 +3211,7 @@ IL_0008:
 		return;
 	}
 }
-// Method Definition Index: 91542
+// Method Definition Index: 91459
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController__cctor_m40C60252FDF3595FE36B626765CC6535F8DE012B (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3260,7 +3260,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticController__cctor_m40C60252FDF3595
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91543
+// Method Definition Index: 91460
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m58DA66EECA7FC11F5017378F195B53629FC6498E (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3277,7 +3277,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m58DA66EECA7FC11F5017378F
 		return;
 	}
 }
-// Method Definition Index: 91544
+// Method Definition Index: 91461
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m4BE54460DE9013F0322B55C7F93B41BB7F1B9479 (U3CU3Ec_tA30B1F22495BBA0DB04789A5A10851AB7F023AF4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3285,7 +3285,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m4BE54460DE9013F0322B55C7F
 		return;
 	}
 }
-// Method Definition Index: 91545
+// Method Definition Index: 91462
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3CInitU3Eb__29_1_m1BCEBEB3A93822C03F9BFD601A7EBC1FB8CA6755 (U3CU3Ec_tA30B1F22495BBA0DB04789A5A10851AB7F023AF4* __this, RuntimeObject* ___0__, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3310,7 +3310,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3CInitU3Eb__29_1_m1BCEBEB3A9382
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91546
+// Method Definition Index: 91463
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0__ctor_mD835FCF0A9C4B2768A4B61013CBBD419DB8BD684 (U3CU3Ec__DisplayClass29_0_t5E1FE2A5E876C852D11A6BE5B7CFB5C12058DDBA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3318,7 +3318,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0__ctor_mD835FCF
 		return;
 	}
 }
-// Method Definition Index: 91547
+// Method Definition Index: 91464
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0_U3CInitU3Eb__0_m22F895CE0EE10591001E1596E6BFAC84B4668465 (U3CU3Ec__DisplayClass29_0_t5E1FE2A5E876C852D11A6BE5B7CFB5C12058DDBA* __this, RuntimeObject* ___0_obj, ElapsedEventArgs_t74C1E2D692A82825805E5EC84EE73F5B053027C1* ___1_args, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3379,7 +3379,7 @@ IL_0025:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91548
+// Method Definition Index: 91465
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticPatterns__cctor_m5BBA1A97FFA4808B41A0ABBBE04029209BDC8C46 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3619,7 +3619,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticPatterns__cctor_m5BBA1A97FFA4808B4
 		return;
 	}
 }
-// Method Definition Index: 91549
+// Method Definition Index: 91466
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticPatterns_PlayEmphasis_mADB063BD86C4E57BDABA6E4CBAD7490BF18C58D8 (float ___0_amplitude, float ___1_frequency, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3770,7 +3770,7 @@ IL_00d0:
 		return;
 	}
 }
-// Method Definition Index: 91550
+// Method Definition Index: 91467
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t HapticPatterns_presetTypeForEmphasis_mD554FAF5E44C00B20177ABA76644E76FB98EC380 (float ___0_amplitude, const RuntimeMethod* method) 
 {
 	{
@@ -3813,7 +3813,7 @@ IL_0021:
 		return (int32_t)(4);
 	}
 }
-// Method Definition Index: 91551
+// Method Definition Index: 91468
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticPatterns_PlayConstant_m3BA7755FE8E837E0B45A29FAD5D5784D0CC2E4BF (float ___0_amplitude, float ___1_frequency, float ___2_duration, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3960,7 +3960,7 @@ IL_00b2:
 		return;
 	}
 }
-// Method Definition Index: 91552
+// Method Definition Index: 91469
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Preset_tE9AB3861F05D2F7838C2971B98BEAC8E7D774828 HapticPatterns_GetPresetForType_m9FC81F286C1CCB677B62EBE48CB2E930102AEB37 (int32_t ___0_type, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4095,7 +4095,7 @@ IL_0062:
 		return L_10;
 	}
 }
-// Method Definition Index: 91553
+// Method Definition Index: 91470
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticPatterns_PlayPreset_m4BBC460337643C4051BA3AC077AAD1E2BB4B9B90 (int32_t ___0_presetType, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4201,7 +4201,7 @@ IL_004b:
 		return;
 	}
 }
-// Method Definition Index: 91554
+// Method Definition Index: 91471
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticPatterns_GetPresetDuration_m1BC31066EDB5BF1475BB55ABC4CADC5FD7CAE692 (int32_t ___0_presetType, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4292,7 +4292,7 @@ IL2CPP_EXTERN_C void Pattern_tBBEAABB6B358583273BDD6C60EA74FA1ABF11E72_marshal_c
 	il2cpp_codegen_com_destroy_safe_array(marshaled.___amplitude);
 	marshaled.___amplitude = NULL;
 }
-// Method Definition Index: 91555
+// Method Definition Index: 91472
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Pattern__cctor_mBAA5690044E47856D7F8A0B6748D07DC3B0A6B4D (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4316,7 +4316,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Pattern__cctor_mBAA5690044E47856D7F8A0B6
 		return;
 	}
 }
-// Method Definition Index: 91556
+// Method Definition Index: 91473
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Pattern__ctor_m0381400DEF8AC63215B136B318282B8B39D7CE22 (Pattern_tBBEAABB6B358583273BDD6C60EA74FA1ABF11E72* __this, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_time, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___1_amplitude, const RuntimeMethod* method) 
 {
 	{
@@ -4339,7 +4339,7 @@ IL2CPP_EXTERN_C  void Pattern__ctor_m0381400DEF8AC63215B136B318282B8B39D7CE22_Ad
 	_thisAdjusted = reinterpret_cast<Pattern_tBBEAABB6B358583273BDD6C60EA74FA1ABF11E72*>(__this + _offset);
 	Pattern__ctor_m0381400DEF8AC63215B136B318282B8B39D7CE22(_thisAdjusted, ___0_time, ___1_amplitude, method);
 }
-// Method Definition Index: 91557
+// Method Definition Index: 91474
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240 Pattern_ToRumble_mFB8A74A47B54296D38A3F46A9DBD900C308EB006 (Pattern_tBBEAABB6B358583273BDD6C60EA74FA1ABF11E72* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4483,7 +4483,7 @@ IL2CPP_EXTERN_C  GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240 Pattern
 	_returnValue = Pattern_ToRumble_mFB8A74A47B54296D38A3F46A9DBD900C308EB006(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 91558
+// Method Definition Index: 91475
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Pattern_ToClip_mFD7C70C9687B1FAD4AB50B7D082C0C07F5754FBD (Pattern_tBBEAABB6B358583273BDD6C60EA74FA1ABF11E72* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4681,7 +4681,7 @@ IL2CPP_EXTERN_C void Preset_tE9AB3861F05D2F7838C2971B98BEAC8E7D774828_marshal_co
 	il2cpp_codegen_com_destroy_safe_array(marshaled.___jsonClip);
 	marshaled.___jsonClip = NULL;
 }
-// Method Definition Index: 91559
+// Method Definition Index: 91476
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Preset__ctor_m6EBDC43D2BD021F13D530424BC65616ACE199572 (Preset_tE9AB3861F05D2F7838C2971B98BEAC8E7D774828* __this, int32_t ___0_type, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___1_time, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___2_amplitude, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4727,7 +4727,7 @@ IL2CPP_EXTERN_C  void Preset__ctor_m6EBDC43D2BD021F13D530424BC65616ACE199572_Adj
 	_thisAdjusted = reinterpret_cast<Preset_tE9AB3861F05D2F7838C2971B98BEAC8E7D774828*>(__this + _offset);
 	Preset__ctor_m6EBDC43D2BD021F13D530424BC65616ACE199572(_thisAdjusted, ___0_type, ___1_time, ___2_amplitude, method);
 }
-// Method Definition Index: 91560
+// Method Definition Index: 91477
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Preset_GetDuration_mB77C3715AAA5BA8308AE5F760CDC922CFE2218A2 (Preset_tE9AB3861F05D2F7838C2971B98BEAC8E7D774828* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4773,7 +4773,7 @@ IL2CPP_EXTERN_C  float Preset_GetDuration_mB77C3715AAA5BA8308AE5F760CDC922CFE221
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91561
+// Method Definition Index: 91478
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnBeforeSerialize_mAC3F0A794D3B3BB97A17630C16DE51AD67DA2320 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4794,7 +4794,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnBeforeSerialize_mAC3F0A
 		return;
 	}
 }
-// Method Definition Index: 91562
+// Method Definition Index: 91479
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnAfterDeserialize_m10FDB611EB984973EB6A0358D5292351CE06CC62 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4815,7 +4815,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnAfterDeserialize_m10FDB
 		return;
 	}
 }
-// Method Definition Index: 91563
+// Method Definition Index: 91480
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticReceiver_get_outputLevel_mC029EBAB921E8C7D447DCCC9FC3C45E2734F4150 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4832,7 +4832,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticReceiver_get_outputLevel_mC029EBA
 		return L_0;
 	}
 }
-// Method Definition Index: 91564
+// Method Definition Index: 91481
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_set_outputLevel_m22FCEED4A4B265D2ACCFA3816EF859FB775F5EB6 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4850,7 +4850,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_set_outputLevel_m22FCEED4
 		return;
 	}
 }
-// Method Definition Index: 91565
+// Method Definition Index: 91482
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticReceiver_get_hapticsEnabled_m5B81D63CED671A10B43781F8785B8F32CD635786 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4867,7 +4867,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticReceiver_get_hapticsEnabled_m5B81D
 		return L_0;
 	}
 }
-// Method Definition Index: 91566
+// Method Definition Index: 91483
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_set_hapticsEnabled_m7C35DD37097709CA60A8A6260173C712EC65F295 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4885,7 +4885,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_set_hapticsEnabled_m7C35D
 		return;
 	}
 }
-// Method Definition Index: 91567
+// Method Definition Index: 91484
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_Start_mC7A9F46B022D38A6256754E433666E4BA59DA06A (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4903,7 +4903,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_Start_mC7A9F46B022D38A625
 		return;
 	}
 }
-// Method Definition Index: 91568
+// Method Definition Index: 91485
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnApplicationFocus_m7D6CBD7E855F2DBB1AF9994DF36A16CD46BB9D22 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, bool ___0_hasFocus, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4921,7 +4921,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnApplicationFocus_m7D6CB
 		return;
 	}
 }
-// Method Definition Index: 91569
+// Method Definition Index: 91486
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnDestroy_mA8F67FBFECC00C0DED192B6090AB23069AE532C0 (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4931,7 +4931,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver_OnDestroy_mA8F67FBFECC00C
 		return;
 	}
 }
-// Method Definition Index: 91570
+// Method Definition Index: 91487
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver__ctor_m44CDE6A5C3CEF92FF8F24700252218F271B3AB9D (HapticReceiver_t848B8AF4F0AD939006FA086EA2E2D0A202776A1B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4951,7 +4951,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticReceiver__ctor_m44CDE6A5C3CEF92FF8
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91571
+// Method Definition Index: 91488
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t HapticSource_get_fallbackPreset_mEECE617416CB3FF45437D70015336FE602735397 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4960,7 +4960,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t HapticSource_get_fallbackPreset_mEECE
 		return L_0;
 	}
 }
-// Method Definition Index: 91572
+// Method Definition Index: 91489
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_fallbackPreset_m6D5470B79AFFE3806503BE1C2860A90EDF58F05A (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -4971,7 +4971,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_fallbackPreset_m6D5470B
 		return;
 	}
 }
-// Method Definition Index: 91573
+// Method Definition Index: 91490
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticSource_get_loop_mE7DBF84772815100A8282D36A303AD8B780F7937 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4980,7 +4980,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticSource_get_loop_mE7DBF84772815100A
 		return L_0;
 	}
 }
-// Method Definition Index: 91574
+// Method Definition Index: 91491
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_loop_m5A9856EDEDE05D7E78C6B6C17FE98EDBEC8E0D3E (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -4991,7 +4991,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_loop_m5A9856EDEDE05D7E7
 		return;
 	}
 }
-// Method Definition Index: 91575
+// Method Definition Index: 91492
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticSource_get_level_m7C663BF92A50D6DB6E85BCE06F43DB56819B3F10 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5000,7 +5000,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticSource_get_level_m7C663BF92A50D6D
 		return L_0;
 	}
 }
-// Method Definition Index: 91576
+// Method Definition Index: 91493
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_level_m1878F51C56E15FB35DE1F104AA07AC922EF97133 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5034,7 +5034,7 @@ IL_001a:
 		return;
 	}
 }
-// Method Definition Index: 91577
+// Method Definition Index: 91494
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticSource_get_frequencyShift_m52C31EFE74C8C6A3200D8B762933216EA74EF7E4 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5043,7 +5043,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float HapticSource_get_frequencyShift_m52C31E
 		return L_0;
 	}
 }
-// Method Definition Index: 91578
+// Method Definition Index: 91495
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_set_frequencyShift_m0D869341950D6085920988E55EA2FAB5BA70B619 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5077,7 +5077,7 @@ IL_001a:
 		return;
 	}
 }
-// Method Definition Index: 91579
+// Method Definition Index: 91496
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource__cctor_m64699115A21D5F953360E19A122FC9D79A7805DB (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5121,7 +5121,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource__cctor_m64699115A21D5F95336
 		return;
 	}
 }
-// Method Definition Index: 91580
+// Method Definition Index: 91497
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_Play_mBE8536FBE9D12DBE92814A33C1930C5F9306D2A4 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5204,7 +5204,7 @@ IL_0070:
 		return;
 	}
 }
-// Method Definition Index: 91581
+// Method Definition Index: 91498
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticSource_CanPlay_m6573EFA48B841878DF318B0D14F0C1B0CC67C9CE (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5256,7 +5256,7 @@ IL_002c:
 		return (bool)1;
 	}
 }
-// Method Definition Index: 91582
+// Method Definition Index: 91499
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticSource_IsLoaded_m095363985BA4A90E499EF53D5406EB36B1E3E8F9 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5272,7 +5272,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool HapticSource_IsLoaded_m095363985BA4A90E4
 		return (bool)((((RuntimeObject*)(HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3*)__this) == ((RuntimeObject*)(HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3*)L_0))? 1 : 0);
 	}
 }
-// Method Definition Index: 91583
+// Method Definition Index: 91500
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_Stop_m565E771BCE6FE1F62EE12F0267211C9CCAE3EC00 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5302,7 +5302,7 @@ IL_000d:
 		return;
 	}
 }
-// Method Definition Index: 91584
+// Method Definition Index: 91501
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_Seek_m112488608ADFCCD47EF2DBE4E4EB28D43E01587E (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, float ___0_time, const RuntimeMethod* method) 
 {
 	{
@@ -5313,7 +5313,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_Seek_m112488608ADFCCD47EF2D
 		return;
 	}
 }
-// Method Definition Index: 91585
+// Method Definition Index: 91502
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource_OnDisable_m8A98EDED152930790E5B539AD788E5B5381226E7 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5351,7 +5351,7 @@ IL_0015:
 		return;
 	}
 }
-// Method Definition Index: 91586
+// Method Definition Index: 91503
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource__ctor_m5F9E6ECB9B30C268948DCE62F8A8CA604C9A6267 (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5373,7 +5373,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HapticSource__ctor_m5F9E6ECB9B30C268948D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91587
+// Method Definition Index: 91504
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m6088842D3BFC9959BCAA1DE2CD8CFC0B4983F111 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5390,7 +5390,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m6088842D3BFC9959BCAA1DE2
 		return;
 	}
 }
-// Method Definition Index: 91588
+// Method Definition Index: 91505
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m5D6483E39A7DF2468D6200E50958D5AE115FF193 (U3CU3Ec_t84E00799D1D4EBE51571F107728C375B85F5C3EE* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5398,7 +5398,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m5D6483E39A7DF2468D6200E50
 		return;
 	}
 }
-// Method Definition Index: 91589
+// Method Definition Index: 91506
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3C_cctorU3Eb__22_0_mD1B7C55840B8789E575D17F2E28BE41222F05C1A (U3CU3Ec_t84E00799D1D4EBE51571F107728C375B85F5C3EE* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5416,7 +5416,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3C_cctorU3Eb__22_0_mD1B7C55840B
 		return;
 	}
 }
-// Method Definition Index: 91590
+// Method Definition Index: 91507
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3C_cctorU3Eb__22_1_m839E6085723C13399E8AAFD10EFE88461E10F11D (U3CU3Ec_t84E00799D1D4EBE51571F107728C375B85F5C3EE* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5442,7 +5442,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3C_cctorU3Eb__22_1_m839E6085723
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91591
+// Method Definition Index: 91508
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* JNIHelpers_javaThrowableToString_m161BACA2F355C3D73F8AACD8C58C0DA6EC1E3117 (intptr_t ___0_throwable, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5593,7 +5593,7 @@ IL_00ae:
 		return L_27;
 	}
 }
-// Method Definition Index: 91592
+// Method Definition Index: 91509
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_m9EB5BCDAE56AE45AE865173DAB134FB35C011C75 (AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0* ___0_obj, intptr_t ___1_methodId, jvalueU5BU5D_t2232DC04C2D2643358141038962889D92D3B5E6F* ___2_jniArgs, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5694,7 +5694,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 91593
+// Method Definition Index: 91510
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_m4C7983BAB087B9A0C617F22D80760AC83698D7F5 (AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0* ___0_obj, intptr_t ___1_methodId, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5718,7 +5718,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_m4C7983BAB087B9A0C617F22
 		return;
 	}
 }
-// Method Definition Index: 91594
+// Method Definition Index: 91511
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_mE02DC3C0B0732DF8C4144494DA6AAC36509D53AD (AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0* ___0_obj, intptr_t ___1_methodId, float ___2_arg, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5743,7 +5743,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_mE02DC3C0B0732DF8C414449
 		return;
 	}
 }
-// Method Definition Index: 91595
+// Method Definition Index: 91512
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_mF7C012A9DDF145A65C9FCFCD82B612E6FBB4B9A6 (AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0* ___0_obj, intptr_t ___1_methodId, bool ___2_arg, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5768,7 +5768,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_mF7C012A9DDF145A65C9FCFC
 		return;
 	}
 }
-// Method Definition Index: 91596
+// Method Definition Index: 91513
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers_Call_mFEB7DB3EDB24CC2CB122A7F496F76E2A81DE6660 (AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0* ___0_obj, intptr_t ___1_methodId, SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___2_arg, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5832,7 +5832,7 @@ IL_0024:
 		return;
 	}
 }
-// Method Definition Index: 91598
+// Method Definition Index: 91515
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers__cctor_m0788E9C1F14716808C7F7719AAD8CE4BB9207FC1 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5858,7 +5858,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JNIHelpers__cctor_m0788E9C1F14716808C7F7
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91599
+// Method Definition Index: 91516
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LofeltHaptics_lofeltHapticsLoadDirect_m212DB3189B44BE54F822058250FAE6FFBB72500B (intptr_t ___0_controller, ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___1_bytes, int64_t ___2_size, const RuntimeMethod* method) 
 {
 	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (intptr_t, uint8_t*, int64_t);
@@ -5886,7 +5886,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LofeltHaptics_lofeltHapticsLoadDirect_m2
 
 	return static_cast<bool>(returnValue);
 }
-// Method Definition Index: 91600
+// Method Definition Index: 91517
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Initialize_m5A160C65E0C3709121B048C91AED126CE2C642E8 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6122,7 +6122,7 @@ IL_013d:
 		return;
 	}
 }
-// Method Definition Index: 91601
+// Method Definition Index: 91518
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Release_m2BC88E4D61DCF47A38B87D8C2D8921846B08BA21 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6179,7 +6179,7 @@ IL_0029:
 		return;
 	}
 }
-// Method Definition Index: 91602
+// Method Definition Index: 91519
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LofeltHaptics_DeviceMeetsMinimumPlatformRequirements_m34615585FBE08942831610AC262ACDEE23BDD1B3 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6201,7 +6201,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LofeltHaptics_DeviceMeetsMinimumPlatform
 		return L_1;
 	}
 }
-// Method Definition Index: 91603
+// Method Definition Index: 91520
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Load_mEDE5AABA9357F121B6B13D5EFABAD832DE2D9FDC (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___0_data, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6225,7 +6225,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Load_mEDE5AABA9357F121B6B1
 		return;
 	}
 }
-// Method Definition Index: 91604
+// Method Definition Index: 91521
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float LofeltHaptics_GetClipDuration_mB8FDE5E1C096414648093E33A2AE2DF9A4031DDC (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6247,7 +6247,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float LofeltHaptics_GetClipDuration_mB8FDE5E1
 		return L_1;
 	}
 }
-// Method Definition Index: 91605
+// Method Definition Index: 91522
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Play_mD458011A67C0A99B637B629B2B805E1D919814C7 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6268,7 +6268,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Play_mD458011A67C0A99B637B
 		return;
 	}
 }
-// Method Definition Index: 91606
+// Method Definition Index: 91523
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_PlayMaximumAmplitudePattern_m9750CD1982EA6A6D924C464F135250FB6569C1F7 (SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_timings, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6290,7 +6290,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_PlayMaximumAmplitudePatter
 		return;
 	}
 }
-// Method Definition Index: 91607
+// Method Definition Index: 91524
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Stop_m1AC86C07B8885A42AB5D5988F5C6C3BC55FA642B (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6311,7 +6311,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Stop_m1AC86C07B8885A42AB5D
 		return;
 	}
 }
-// Method Definition Index: 91608
+// Method Definition Index: 91525
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_StopPattern_mDA2719D6A8F90D32D956ED4E01401774F9B80AC5 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6362,7 +6362,7 @@ IL_001d:
 		return;
 	}
 }
-// Method Definition Index: 91609
+// Method Definition Index: 91526
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Seek_m6F57DA36A2D3780A7CCDF9F2E3E0A14C1ED66D4E (float ___0_time, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6384,7 +6384,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Seek_m6F57DA36A2D3780A7CCD
 		return;
 	}
 }
-// Method Definition Index: 91610
+// Method Definition Index: 91527
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_SetAmplitudeMultiplication_m21AF8A0DBE888DF4354815DC65FD3C5635AA6684 (float ___0_factor, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6406,7 +6406,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_SetAmplitudeMultiplication
 		return;
 	}
 }
-// Method Definition Index: 91611
+// Method Definition Index: 91528
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_SetFrequencyShift_m58733F5BB1A11401DE5E843F34ADB79C318AD318 (float ___0_shift, const RuntimeMethod* method) 
 {
 	{
@@ -6414,7 +6414,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_SetFrequencyShift_m58733F5
 		return;
 	}
 }
-// Method Definition Index: 91612
+// Method Definition Index: 91529
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Loop_m37A6519C484CE0B973B41C0A4C2244A85D5D314B (bool ___0_enabled, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6436,7 +6436,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_Loop_m37A6519C484CE0B973B4
 		return;
 	}
 }
-// Method Definition Index: 91613
+// Method Definition Index: 91530
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_TriggerPresetHaptics_mE9ABF939278490958FD0EEF239E3A434B0C13A64 (int32_t ___0_type, const RuntimeMethod* method) 
 {
 	{
@@ -6444,7 +6444,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics_TriggerPresetHaptics_mE9AB
 		return;
 	}
 }
-// Method Definition Index: 91614
+// Method Definition Index: 91531
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics__cctor_m54B75BFF5FC94404F3D625D8B3A2E510DF415481 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6477,7 +6477,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LofeltHaptics__cctor_m54B75BFF5FC94404F3
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91615
+// Method Definition Index: 91532
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NVHapticData_t217A4B29F06616210C3F986CB949390285DCE135* AudioToHapticConverter_GenerateHapticFile_m1E0F1A8E3C63EE0683CCBEB61A1AB0321B477F29 (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* ___0_audioClip, String_t* ___1_outputFolder, String_t* ___2_outputFileName, bool ___3_normalizeAmplitude, float ___4_normalizeAmplitudeFactor, bool ___5_normalizeFrequency, float ___6_normalizeFrequencyFactor, int32_t ___7_sampleCount, const RuntimeMethod* method) 
 {
 	{
@@ -6485,7 +6485,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NVHapticData_t217A4B29F06616210C3F986CB949390
 		return (NVHapticData_t217A4B29F06616210C3F986CB949390285DCE135*)NULL;
 	}
 }
-// Method Definition Index: 91616
+// Method Definition Index: 91533
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GamepadRumble_t7DE7D16E45630C3E68812B85E00E60F32D0E3240 AudioToHapticConverter_ConvertRumbleData_m063E85C466CD0F52134401DE028FA9E445F3FE58 (NVHapticData_t217A4B29F06616210C3F986CB949390285DCE135* ___0_data, int32_t ___1_totalDurationMs, bool ___2_normalizeAmplitude, float ___3_normalizeAmplitudeFactor, bool ___4_normalizeFrequency, float ___5_normalizeFrequencyFactor, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6664,7 +6664,7 @@ IL_00f4:
 		return L_58;
 	}
 }
-// Method Definition Index: 91617
+// Method Definition Index: 91534
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* AudioToHapticConverter_Normalize_m980182A4CB2C31333F4DBB930724CC2492C65996 (SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_data, float ___1_maxDesiredValue, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -6727,7 +6727,7 @@ IL_002d:
 		return L_13;
 	}
 }
-// Method Definition Index: 91618
+// Method Definition Index: 91535
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float AudioToHapticConverter_EstimateFrequencyZCR_m78084E27FFDE0344152B24444FA7868803B298AE (SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___0_frame, int32_t ___1_sampleRate, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
@@ -6831,7 +6831,7 @@ IL_003a:
 		return L_24;
 	}
 }
-// Method Definition Index: 91619
+// Method Definition Index: 91536
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AudioToHapticConverter__ctor_m8E8272C1B4AFCCF9A63EF25B1D34F949AD9814D8 (AudioToHapticConverter_t37B72A39AE17077B5CAFEBA5DB03478362084458* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6847,7 +6847,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AudioToHapticConverter__ctor_m8E8272C1B4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91620
+// Method Definition Index: 91537
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVHapticData__ctor_m0E238B444B55B5087A8F5EDF73BE68032E28AD34 (NVHapticData_t217A4B29F06616210C3F986CB949390285DCE135* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6863,7 +6863,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVHapticData__ctor_m0E238B444B55B5087A8F
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91621
+// Method Definition Index: 91538
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVHapticFile__ctor_m561EFA48693E944F64846F12F1649B79BF328D9E (NVHapticFile_tA65C7BB9A97067EBE227544516B6A5F647D0C3E4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6879,7 +6879,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVHapticFile__ctor_m561EFA48693E944F6484
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91622
+// Method Definition Index: 91539
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVVersion__ctor_mA5A523A40D860960C5CBF28E0372099CD87529F3 (NVVersion_tAD41549A570E11CFD8C16A3008764FB4F8C28B96* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6897,7 +6897,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVVersion__ctor_mA5A523A40D860960C5CBF28
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91623
+// Method Definition Index: 91540
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVMetadata__ctor_m72F7DD7F042FC7CEE8E5EA658871C1BA3BF64DCF (NVMetadata_tD7A2D08897C7A6FC2A67575EB428F48E21040DFF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6913,7 +6913,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVMetadata__ctor_m72F7DD7F042FC7CEE8E5EA
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91624
+// Method Definition Index: 91541
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVSignals__ctor_mCB5DCAB891ED6597B1E2D2FF9914FCF86188B88C (NVSignals_t6EDB50002F3E44F22E05D7BB00E18D47FA8DCD64* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6929,7 +6929,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVSignals__ctor_mCB5DCAB891ED6597B1E2D2F
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91625
+// Method Definition Index: 91542
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVContinuous__ctor_m8AC49B10FDF208F6609165F573F9862BD9FEA9B2 (NVContinuous_tB1757F57923AE2D376C268C89605C96DD59468F2* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6945,7 +6945,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVContinuous__ctor_m8AC49B10FDF208F66091
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91626
+// Method Definition Index: 91543
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVEnvelopes__ctor_m53665BE66A7DCCF884F4EA09B6F0C69EEF1B255A (NVEnvelopes_t6F80ACCB6F853C67F925A1B443C344CC4B4618D2* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6961,7 +6961,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVEnvelopes__ctor_m53665BE66A7DCCF884F4E
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91627
+// Method Definition Index: 91544
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVAmplitudePoint__ctor_mCE1DF0ACBAC26D07A5289A5A5D92AFE2859061EA (NVAmplitudePoint_t5BAA4CE56C05713F9C4C9CEAEB5DB8D43BBA8135* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6977,7 +6977,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVAmplitudePoint__ctor_mCE1DF0ACBAC26D07
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91628
+// Method Definition Index: 91545
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVFrequencyPoint__ctor_m739234683F231718423E46EB53122BD0B37CB640 (NVFrequencyPoint_t4FAA4272FABC280FC17400E19217AE9969A76637* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6993,7 +6993,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVFrequencyPoint__ctor_m739234683F231718
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 91629
+// Method Definition Index: 91546
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVEmphasis__ctor_mE89229647DF7368AEDC8432AFD57D50E30C629B0 (NVEmphasis_t3B2590EB318AB2A984992B200582581A19962110* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7044,7 +7044,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NVEmphasis__ctor_mE89229647DF7368AEDC843
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 91494
+// Method Definition Index: 91411
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_platformVersion_m0A60F6AEB62C7F305D64E89587392EFDCE4E4186_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7060,7 +7060,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t DeviceCapabilities_get_pl
 		return L_0;
 	}
 }
-// Method Definition Index: 91496
+// Method Definition Index: 91413
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_isVersionSupported_m2349570E6B8BAABBAD18ECF19D758436A1282496_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7076,7 +7076,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_isVer
 		return L_0;
 	}
 }
-// Method Definition Index: 91495
+// Method Definition Index: 91412
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_meetsAdvancedRequirements_m2501828C362AB5507BF4EE8BF1E9FCEE92CDDA46_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7098,7 +7098,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Action_Invoke_m7126A54DACA72
 	typedef void (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 46857
+// Method Definition Index: 46853
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline (float ___0_a, float ___1_b, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -7135,7 +7135,7 @@ IL_000c:
 		return L_4;
 	}
 }
-// Method Definition Index: 91503
+// Method Definition Index: 91420
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canLoop_m69DF52370C735DBBD712DB92B96F8961B5A469CD_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7151,7 +7151,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool DeviceCapabilities_get_canLo
 		return L_0;
 	}
 }
-// Method Definition Index: 91518
+// Method Definition Index: 91435
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t HapticController_get_fallbackPreset_mFB148A0F3EAABF5B2B9B2EE591D70616B8E00548_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7167,7 +7167,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t HapticController_get_fall
 		return L_0;
 	}
 }
-// Method Definition Index: 83440
+// Method Definition Index: 83435
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Timer_get_Enabled_m082C8CCFB9C6936523EDE3E8C8DD010C22EDA032_inline (Timer_t10D85D58F4AC0CF80C625D0124B12098CE540A8B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7175,7 +7175,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Timer_get_Enabled_m082C8CCFB
 		return L_0;
 	}
 }
-// Method Definition Index: 91519
+// Method Definition Index: 91436
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void HapticController_set_fallbackPreset_m59C957576E33F13392F08310B4E5F8D610CA2EA1_inline (int32_t ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7193,7 +7193,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void HapticController_set_fallbac
 		return;
 	}
 }
-// Method Definition Index: 91520
+// Method Definition Index: 91437
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool HapticController_get_hapticsEnabled_mBA9A8296F49D4445C034A94E25D55446B7760887_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7209,7 +7209,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool HapticController_get_haptics
 		return L_0;
 	}
 }
-// Method Definition Index: 46872
+// Method Definition Index: 46868
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp_mEB9AEA827D27D20FCC787F7375156AF46BB12BBF_inline (float ___0_value, float ___1_min, float ___2_max, const RuntimeMethod* method) 
 {
 	bool V_0 = false;
@@ -7260,7 +7260,7 @@ IL_001d:
 		return L_9;
 	}
 }
-// Method Definition Index: 91522
+// Method Definition Index: 91439
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticController_get_outputLevel_mB9E570F29478F1DD5DCAF278000A0243D2884953_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7276,7 +7276,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticController_get_output
 		return L_0;
 	}
 }
-// Method Definition Index: 91573
+// Method Definition Index: 91490
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool HapticSource_get_loop_mE7DBF84772815100A8282D36A303AD8B780F7937_inline (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7285,7 +7285,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool HapticSource_get_loop_mE7DBF
 		return L_0;
 	}
 }
-// Method Definition Index: 91575
+// Method Definition Index: 91492
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticSource_get_level_m7C663BF92A50D6DB6E85BCE06F43DB56819B3F10_inline (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7294,7 +7294,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticSource_get_level_m7C6
 		return L_0;
 	}
 }
-// Method Definition Index: 91577
+// Method Definition Index: 91494
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticSource_get_frequencyShift_m52C31EFE74C8C6A3200D8B762933216EA74EF7E4_inline (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7303,7 +7303,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float HapticSource_get_frequencyS
 		return L_0;
 	}
 }
-// Method Definition Index: 91571
+// Method Definition Index: 91488
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t HapticSource_get_fallbackPreset_mEECE617416CB3FF45437D70015336FE602735397_inline (HapticSource_tAE4E897548DB0D956C018CE6521DC901D06502E3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7330,7 +7330,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool IntPtr_op_Equality_m7D9CDCDE
 		return (bool)((((intptr_t)L_0) == ((intptr_t)L_1))? 1 : 0);
 	}
 }
-// Method Definition Index: 46870
+// Method Definition Index: 46866
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_RoundToInt_m60F8B66CF27F1FA75AA219342BD184B75771EB4B_inline (float ___0_f, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7355,7 +7355,7 @@ IL_000c:
 		return L_2;
 	}
 }
-// Method Definition Index: 46874
+// Method Definition Index: 46870
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp01_mA7E048DBDA832D399A581BE4D6DED9FA44CE0F14_inline (float ___0_value, const RuntimeMethod* method) 
 {
 	bool V_0 = false;
